@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ardiet.netlify.app/</loc>
+    <lastmod>2021-02-13T21:02:52+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ardiet.netlify.app/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ardiet.netlify.app/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/tags/design/</loc>
+    <lastmod>2021-02-13T21:02:52+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/tags/development/</loc>
+    <lastmod>2021-02-13T21:02:52+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/tags/</loc>
+    <lastmod>2021-02-13T21:02:52+07:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ardiet.netlify.app/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ardiet.netlify.app/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/blog/new/</loc>
+    <lastmod>2021-02-13T21:02:52+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/blog/</loc>
+    <lastmod>2021-02-13T21:02:52+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/categories/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ardiet.netlify.app/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ardiet.netlify.app/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/categories/database/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/categories/design/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/categories/development/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/categories/logo/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/portfolio/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/portfolio/project-1/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/portfolio/project-2/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/portfolio/project-3/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/portfolio/project-4/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/portfolio/project-5/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/portfolio/project-6/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/categories/sketch/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/funfacts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/banner/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/call-to-action/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ardiet.netlify.app/testimonial/</loc>
+  </url>
+  
+</urlset>

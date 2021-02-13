@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Ardiet Achmad | Portfolio</title>
+    <link>https://ardiet.netlify.app/tags/development/</link>
+    <description>Recent content in development on Ardiet Achmad | Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 Ardiet Achmad</copyright>
+    <lastBuildDate>Sat, 13 Feb 2021 21:02:52 +0700</lastBuildDate><atom:link href="https://ardiet.netlify.app/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Is A New BLog</title>
+      <link>https://ardiet.netlify.app/blog/new/</link>
+      <pubDate>Sat, 13 Feb 2021 21:02:52 +0700</pubDate>
+      
+      <guid>https://ardiet.netlify.app/blog/new/</guid>
+      <description>Hallo guys
+cara nginstall package
+console.log(&amp;#39;Hello World&amp;#39;) Lanjut baca disini</description>
+    </item>
+    
+  </channel>
+</rss>
